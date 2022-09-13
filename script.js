@@ -14,7 +14,7 @@ if(op == "+"){
     var result = parseFloat(sayiBir) / parseFloat(sayiIki);
 } else if(op == "*") {
     var result = parseFloat(sayiBir) * parseFloat(sayiIki);
-} else if (op == "tirbüşon"){
+} else if (op == "tirbuşon"){
     console.log("Beklenmeyen Operatör");
     var result = "ALLA";
 } else {

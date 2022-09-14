@@ -16,7 +16,7 @@ if(op == "+"){
     var result = parseFloat(sayiBir) * parseFloat(sayiIki);
 } else if (op == "tirbuşon"){
     console.log("Beklenmeyen Operatör");
-    var result = "ALLA";
+    var result = "ALLAH";
 } else {
     console.log("Beklenmeyen Operatör Girişi");
     var result = "undefined";

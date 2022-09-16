@@ -40,3 +40,4 @@ if(op == "+"){
 
 document.getElementById("res").innerHTML = result;
 // Sarp 9-G.
+// https://github.com/sarpatalik/-index

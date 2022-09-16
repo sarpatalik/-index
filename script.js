@@ -25,10 +25,10 @@ if(op == "+"){
     console.log("Beklenmeyen Operatör");
     var result = "ALLAH";
 } else if (op == "kokal"){
-    var sayiBir = prompt("Birinci Sayiyi Giriniz:");
+    var sayiBir = prompt("Sayiyi Giriniz:");
     var result = Math.sqrt(sayiBir);
 } else if (op =="kareal"){
-    var sayiBir = prompt("Birinci Sayiyi Giriniz:");
+    var sayiBir = prompt("Sayiyi Giriniz:");
     var result = parseFloat(sayiBir) * parseFloat(sayiBir);
     
 }else {
